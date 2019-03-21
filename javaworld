@@ -1,3 +1,5 @@
+//A program to output greetings in java console window
+
 public class HelloJava
 {
     public static void main(String[] args)
@@ -6,4 +8,6 @@ public class HelloJava
         System.out.prinln("Hello,World!);
      }
  }
+     
+ //classes in java are the fundamental building blocks of java programs    
      
